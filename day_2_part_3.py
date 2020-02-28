@@ -10,11 +10,24 @@
 # my_string = my_string.rstrip("%$*")
 # print(my_string)
 
-my_list = ['cat', 123, True, "python", "iis"]
-my_list[0] = 'dog'
-# print(my_list)
-for elem in my_list:
-    print(elem, end = ", ")
+# my_list = ['cat', 123, True, "python", "iis"]
+# my_list[0] = 'dog'
+# # print(my_list)
+# for elem in my_list:
+#     print(elem, end = ", ")
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
